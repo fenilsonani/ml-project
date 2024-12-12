@@ -8,3 +8,5 @@ jupyterlab
 pillow
 torch
 torchvision
+imblearn
+shap
