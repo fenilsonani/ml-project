@@ -54,7 +54,7 @@ os.makedirs(model_dir, exist_ok=True)
 target_column = 'shape'  # Change to 'colour' if needed
 img_height, img_width = 200, 200  # For feature extraction
 batch_size = 32
-frac_dataset = 0.1  # 30% of data for development
+frac_dataset = 0.1  # 10% of data for development
 
 # =============================================================================
 # Section 3: Data Loading and Cleaning
